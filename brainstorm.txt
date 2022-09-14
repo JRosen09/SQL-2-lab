@@ -1,0 +1,70 @@
+LAB Exercise – tue 13
+
+Create recipte
+Share a recipte
+Create grocery list
+
+Featrues:
+•	users can sign into the app with their email and password
+•	users can create recipes with ingredients and instructions
+•	users can view other people’s recipes
+•	users can create their own occasions and assign recipes to occasions
+•	
+•	recipes can be marked as public or private
+•	
+•	ingredients from recipes can be added to user’s grocery lists
+
+Brainstorming:
+MVP:
+Tables (what info it will hold
+•	Users
+•	Create account
+•	Sign email & password
+•	Create recipes
+•	Create grocery lists
+•	Create tags
+•	Search recipes
+•	Share recipes
+•	Like recipes
+•	Delete receipt 
+•	Recipes
+•	Marked on or off
+•	Take in info - txt
+•	Ingredients
+•	Add to
+•	Remove from
+•	name
+•	type
+•	amount
+•	Grocery list
+•	Compile from ingredients
+
+Relationships
+
+
+•	Users ( what does the the user need to start an account?)
+•	Create email
+•	Create password
+•	Create recipes – Relative to recipes
+•	Create grocery lists – relative to grocery list
+•	Create tags – Relative to recipes 
+•	Search recipes
+•	Share recipes
+•	Like recipes
+•	Delete receipt 
+•	Recipes (what information 
+•	Marked on or off
+•	Take in info – txt
+•	Accept tags – 
+•	Ability to be shared
+•	Ability to be liked
+•	Ingredients list
+•	Ingredients list
+•	Remove from
+•	Name of ingredient 
+•	Food type
+•	amount
+•	Grocery list
+•	Compile from ingredients
+•	User_id
+•	Check off
